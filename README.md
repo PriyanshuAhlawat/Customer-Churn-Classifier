@@ -5,6 +5,9 @@
 This project focuses on deploying a customer churn classifier using BigQuery ML to Vertex AI for online predictions. We will work with a Google Analytics 4 dataset from the Flood it! mobile application to predict the likelihood of users returning to the app. The project involves various stages, including data exploration and preprocessing, model training, tuning, evaluation, and deployment to Vertex AI for online predictions.
 This project has been created by referencing this [article](https://cloud.google.com/blog/topics/developers-practitioners/churn-prediction-game-developers-using-google-analytics-4-ga4-and-bigquery-ml).
 
+## Architecture
+![Architecture](https://github.com/PriyanshuAhlawat/Customer-Churn-Classifier/blob/0ac1aace9eeaf714775f9a7a7df1352e3dbb9e37/vertex-bqml-lab-architecture-diagram.png)
+
 ### BigQuery ML
 BigQuery ML is a powerful tool that enables machine learning directly within BigQuery using SQL queries. It simplifies the process of training and deploying machine learning models, offering seamless integration with Google Cloud's infrastructure.
 
